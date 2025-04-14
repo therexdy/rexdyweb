@@ -11,7 +11,7 @@ function App() {
         <NavBar />
         <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<IntroSection />} />
+            <Route path="/rexdyweb" element={<IntroSection />} />
             <Route path="/Projects" element={<Projects />} />
             <Route path="/Socials" element={<Socials />} />
           </Routes>
