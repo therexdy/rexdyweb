@@ -9,7 +9,7 @@ const IntroSection = () => {
           <div className="hidden lg:block lg:w-max order-first ml-4">
             <img
               className="max-w-full h-auto rounded-lg"
-              src="media-files/my_pic.png"
+              src="src={`${process.env.PUBLIC_URL}/media-files/my_pic.png`}"
               alt="Rexdy"
               style={{ objectFit: 'contain', maxWidth: '480px' }}
             />
