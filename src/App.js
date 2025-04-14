@@ -7,13 +7,13 @@ import Socials from './components/Socials';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen flex flex-col bg-white dark:bg-gray-900">
+      <div className="min-h-screen flex flex-col bg-white dark:bg-black">
         <NavBar />
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<IntroSection />} />
-            <Route path="/Projects.html" element={<Projects />} />
-            <Route path="/Socials.html" element={<Socials />} />
+            <Route path="/Projects" element={<Projects />} />
+            <Route path="/Socials" element={<Socials />} />
           </Routes>
         </main>
       </div>

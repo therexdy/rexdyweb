@@ -8,6 +8,7 @@ module.exports = {
       colors: {
         'rexdy-green': '#2DBA4E',
       },
+      
     },
   },
   plugins: [],
