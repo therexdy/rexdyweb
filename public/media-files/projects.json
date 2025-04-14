@@ -1,26 +1,8 @@
 [
     {
-      "title": "React E-commerce Store",
-      "short_description": "A fully functional e-commerce website built with React, Redux, and Tailwind CSS.",
-      "github_link": "https://github.com/your-username/react-ecommerce",
-      "demo_video": "https://example.com/react-ecommerce-demo.mp4"
-    },
-    {
-      "title": "Node.js RESTful API",
-      "short_description": "A robust RESTful API developed using Node.js, Express.js, and MongoDB for data management.",
-      "github_link": "https://github.com/your-username/nodejs-api",
-      "demo_video": null
-    },
-    {
-      "title": "Python Data Analysis Dashboard",
-      "short_description": "An interactive dashboard created with Python, Pandas, and Plotly to visualize and analyze datasets.",
-      "github_link": "https://github.com/your-username/python-dashboard",
-      "demo_video": "https://example.com/python-dashboard-demo.mp4"
-    },
-    {
-      "title": "Mobile Weather Application",
-      "short_description": "A cross-platform mobile application built with React Native that provides real-time weather updates.",
-      "github_link": "https://github.com/your-username/react-native-weather",
-      "demo_video": null
+      "title": "Will be updated soon.",
+      "short_description": "I will do it ASAP",
+      "github_link": "https://example.com",
+      "demo_video": "https://example.com"
     }
   ]
