@@ -7,7 +7,7 @@ const NavBar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0 text-xl font-bold hover:text-text-rexdy-green">
-            <Link to="/rexdyweb" className="text-2xl hover:text-rexdy-green">Rexdy</Link>
+            <Link to="/" className="text-2xl hover:text-rexdy-green">Rexdy</Link>
           </div>
           <div className="md:flex space-x-6">
             <Link to="/Projects" className="hover:text-text-rexdy-green hidden lg:block">Projects</Link>
