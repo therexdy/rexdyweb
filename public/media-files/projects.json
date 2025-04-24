@@ -1,27 +1,33 @@
 [
   {
+    "title": "Detection of Epilepsy and SOS Reporting",
+    "short_description": "Project selected for FAER Scholar Awards 2024-25(FAER is a Indian Non-Profit organization). Signed an NDA, can't say more.",
+    "github_link": "no-link",
+    "demo_video": "no-link"
+  },
+  {
     "title": "linux-file-org",
     "short_description": "File organizer for linux built using Rust. Organizes files into directories based on their file types.",
     "github_link": "https://github.com/truerexdy/linux-file-org.git",
-    "demo_video": "#"
+    "demo_video": "no-link"
   },
   {
     "title": "emcequ",
     "short_description": "A simple MCQ Test web-app that can be hosted on any modern machine in the local network. I built this for the first round of my college Dept. Fest Technotsava's Debugging challenge.",
     "github_link": "https://github.com/truerexdy/emcequ.git",
-    "demo_video": "#"
+    "demo_video": "no-link"
   },
   {
     "title": "glscripts",
     "short_description": "Bash scripts that I write for maintaining my Arch Linux(primarily) system.",
     "github_link": "https://github.com/truerexdy/glscripts.git",
-    "demo_video": "#"
+    "demo_video": "no-link"
   },
   {
     "title": "Chat Gurudev",
     "short_description": "Simple web-app to interact with LLMs deployed with Ollama on the local network. Initially I intended to deploy this on my college server.",
     "github_link": "https://github.com/truerexdy/chatgurudev.git",
-    "demo_video": "https://youtu.be/msu_4qs5eRA/"
+    "demo_video": "no-link"
   },
   {
     "title": "This Website",
@@ -33,6 +39,6 @@
     "title": "fras (Failed Project)",
     "short_description": "Facial Recognition and Automation system, I had very little understanding of how real software is built when I started this so this didn't work out.",
     "github_link": "https://github.com/truerexdy/fras.git",
-    "demo_video": "#"
+    "demo_video": "no-link"
   }
 ]

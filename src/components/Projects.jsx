@@ -37,22 +37,22 @@ function Projects() {
       <h2 className="text-3xl font-semibold mb-8 mx-2 text-black dark:text-white">Projects</h2>
       <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {projects.map((project, index) => (
-          <div key={index} className="bg-white text-black dark:bg-black dark:text-white rounded-md shadow-sm hover:shadow-md dark:hover:bg-neutral-900 transition duration-200">
+          <div key={index} className="bg-white text-black dark:bg-black dark:text-white rounded-md shadow-sm hover:bg-gray-200 hover:shadow-md dark:hover:bg-neutral-900 transition duration-200">
             <div className="p-5">
               <h3 className="text-xl font-semibold mb-3 text-black dark:text-white">{project.title}</h3>
               <p className="text-black dark:text-white mb-4">{project.short_description}</p>
               <div className="flex space-x-3">
-                {project.github_link && (
+                {project.github_link !== "no-link" && (
                   <a
                     href={project.github_link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-md hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-rexdy-green focus-visible:ring-offset-2 transition duration-150"
+                    className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-white bg-rexdy-green rounded-md hover:bg-rexdy-green/80 focus:outline-none focus-visible:ring-2 focus-visible:ring-rexdy-green focus-visible:ring-offset-2 transition duration-150"
                   >
                     GitHub
                   </a>
                 )}
-                {project.demo_video && (
+                {project.demo_video !== "no-link" && (
                   <a
                     href={project.demo_video}
                     target="_blank"
