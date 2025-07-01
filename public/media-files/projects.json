@@ -2,8 +2,8 @@
   {
     "title": "Sujnana",
     "short_description": "This is my Personal Blog-site, build with just Vanilla JS, HTML and CSS. Currently just static but planning to make it dynamic once I have enough budget.",
-    "github_link": "github.com/truerexdy/sujnana",
-    "demo_video": "truerexdy.github.io/sujnana/"
+    "github_link": "https://github.com/truerexdy/sujnana.git",
+    "demo_video": "https://truerexdy.github.io/sujnana/"
   },
   {
     "title": "Detection of Epilepsy and SOS Reporting",
