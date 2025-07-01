@@ -1,5 +1,11 @@
 [
   {
+    "title": "Sujnana",
+    "short_description": "This is my Personal Blog-site, build with just Vanilla JS, HTML and CSS. Currently just static but planning to make it dynamic once I have enough budget.",
+    "github_link": "github.com/truerexdy/sujnana",
+    "demo_video": "truerexdy.github.io/sujnana/"
+  },
+  {
     "title": "Detection of Epilepsy and SOS Reporting",
     "short_description": "Won Rs. 20k in FAER Scholar Awards 2024-25(FAER is a Indian Non-Profit organization). Signed an NDA, can't say more.",
     "github_link": "no-link",
