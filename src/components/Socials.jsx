@@ -3,7 +3,6 @@ import React from 'react';
 const socialMedia = [
     { name: 'YouTube', url: 'https://www.youtube.com/channel/UCkS41iYLqSq_N0RwIHmEhaA?sub_confirmation=1' },
     { name: 'Instagram', url: 'https://www.instagram.com/rexdy.ka/' },
-    { name: 'Bluesky', url: 'https://bsky.app/profile/rexdy.bsky.social' },
     { name: 'GitHub', url: 'https://github.com/truerexdy' }
   ];
 
