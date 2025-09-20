@@ -26,7 +26,7 @@ const IntroSection = () => {
               <p className="text-lg text-black dark:text-white leading-relaxed">
                 I am interested in <span className="text-rexdy-green font-medium">Systems Programming</span>, <span className="text-rexdy-green font-medium">Computer Networks</span>, <span className="text-rexdy-green font-medium">Machine Learning</span>, and many other things.
                 <br />
-                But, currently focusing on <span className="text-rexdy-green font-semibold">Machine Learning</span>.
+                But, currently focusing on <span className="text-rexdy-green font-semibold">Systems Programming</span>.
               </p>
             </div>
             <div className="sm:block md:hidden lg:hidden xl:hidden grid grid-cols-1 text-center mt-5 text-xl ">
