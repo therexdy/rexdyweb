@@ -1,5 +1,21 @@
 [
   {
+    "title": "Chakravyuha",
+    "short_description": "Smart home intrution detection system, we built this for NHCE 48 Hour Hackathon 2025 and won first prize(trophy+Rs 25k). An online learning logistic regression model running on an edge device(R Pi 4B).",
+    "github_link": "https://github.com/therexdy/NH-SJC25HACK-IOT-020_GROVE_STREET_ENGINEERS"
+  },
+  {
+    "title": "Stucon",
+    "short_description": "A community of students to share study resources. I worked on the backend part so the repo only contains Go code, frontend is in my friend's repo(run setup.sh file after cloning to pull that too).",
+    "github_link": "https://github.com/therexdy/stucon"
+  },
+  {
+    "title": "Project DIA",
+    "short_description": "Automated the satellite ground station operations at Dhritvan Space Lab(SJCIT) also wrote a paper and presented at ISSE SEA 2025.",
+    "github_link": "https://github.com/therexdy/project_dia",
+    "demo_video": "https://youtu.be/YKEP495otjA"
+  },
+  {
     "title": "Project Naradha",
     "short_description": "My Home Lab project, self-hosted a few services, customized my LAN, my VPS as reverse proxy for exposing it to the Public Internet, continuing to experiment and improve it.",
     "github_link": "https://therexdy.github.io/sujnana/blogs/4.html",
